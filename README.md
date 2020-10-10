@@ -1,4 +1,5 @@
-# dl-desafio-todolist
+# DL - Desafio - To Do List
+## Alumno: Javier Alejandro Castillo Oñatt
 
 ## Project setup
 ```
